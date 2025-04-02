@@ -205,7 +205,7 @@ $$
 \text{EMA}\_t = \alpha \cdot S_t + (1-\alpha) \cdot \text{EMA}_{t-1}
 $$
 
-初始值：$\text{EMA}_0 = 1.0$
+初始值： $\text{EMA}_0 = 1.0$
 
 ### 三、响应时间惩罚系数
 
